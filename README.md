@@ -2,6 +2,10 @@
 
 Responsive product page for luxury jewelry e-commerce.
 
+## Live Preview
+
+🔗 [View Live Demo](https://albna3681.github.io/lexic-ring-product-page/product.html)
+
 ## Features
 
 - Fully responsive design (mobile, tablet, desktop)
