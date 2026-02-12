@@ -4,9 +4,11 @@ Responsive product page for luxury jewelry e-commerce.
 
 ## Live Preview
 
-🔗 [View Live project](https://aldhihaexams.com/lexic-ring-product-page/product.html)
+🔗 [View Live Project](https://aldhihaexams.com/lexic-ring-product-page/product.html)
 
 Alternative: [GitHub Pages](https://albna3681.github.io/lexic-ring-product-page/product.html)
+
+
 
 ## Features
 
@@ -31,6 +33,14 @@ Cart updates happen in real-time with efficient DOM manipulation and event deleg
 ## Design
 
 Based on [Figma Design](https://www.figma.com/design/4ad9MKcLpwOHwvco8bnHea/Technical-Tasks?node-id=0-1&p=f&t=EGwlD9afo1aWTW5N-0)
+
+## Preview
+
+### Desktop View
+![Desktop Preview](http://aldhihaexams.com/lexic-ring-product-page/laptop.png)
+
+### Mobile View
+![Mobile Preview](http://aldhihaexams.com/lexic-ring-product-page/phone.jpg)
 
 ## Tech Stack
 
