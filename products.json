@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "First Product Name",
+    "price": 1500,
+    "image": "images/ring-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Second Product Name",
+    "price": 1500,
+    "image": "images/ring-2-new.png"
+  },
+  {
+    "id": 3,
+    "name": "First Product Name",
+    "price": 1500,
+    "image": "images/ring-3-new.png"
+  },
+  {
+    "id": 4,
+    "name": "Second Product Name",
+    "price": 1500,
+    "image": "images/ring-4-new.png"
+  }
+]
