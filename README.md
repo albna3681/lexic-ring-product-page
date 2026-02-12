@@ -1,14 +1,26 @@
 # Lexic Cuf Ring - Product Page
 
-Luxury jewelry product page built with HTML, CSS, and vanilla JavaScript.
+Responsive product page for luxury jewelry e-commerce.
 
 ## Features
 
-- Responsive design (mobile, desktop)
-- Shopping cart with local storage
-- Image gallery with thumbnails
-- Product options (color & size)
-- Toast notifications
+- Fully responsive design (mobile, tablet, desktop)
+- Dynamic product loading from JSON
+- Shopping cart with localStorage
+- Interactive image gallery
+- Product customization options
+- Real-time notifications
+
+## Technical Implementation
+
+Built with class-based JavaScript architecture:
+- `ProductService` - Fetches product data from JSON
+- `CartStore` - Manages cart state and localStorage
+- `CartUI` - Handles dynamic UI updates
+- `ProductCatalog` - Renders product grid
+- Modular components with clean separation
+
+Cart updates happen in real-time with efficient DOM manipulation and event delegation.
 
 ## Design
 
@@ -16,6 +28,6 @@ Based on [Figma Design](https://www.figma.com/design/4ad9MKcLpwOHwvco8bnHea/Tech
 
 ## Tech Stack
 
-HTML5 • CSS3 • JavaScript (ES6+)
+HTML5 • CSS3 • Vanilla JavaScript • LocalStorage
 
 
