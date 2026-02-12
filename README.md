@@ -4,7 +4,9 @@ Responsive product page for luxury jewelry e-commerce.
 
 ## Live Preview
 
-🔗 [View Live Demo](https://albna3681.github.io/lexic-ring-product-page/product.html)
+🔗 [View Live project](https://aldhihaexams.com/lexic-ring-product-page/product.html))
+
+Alternative: [GitHub Pages](https://albna3681.github.io/lexic-ring-product-page/product.html)
 
 ## Features
 
@@ -33,5 +35,3 @@ Based on [Figma Design](https://www.figma.com/design/4ad9MKcLpwOHwvco8bnHea/Tech
 ## Tech Stack
 
 HTML5 • CSS3 • Vanilla JavaScript • LocalStorage
-
-
